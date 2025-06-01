@@ -2,7 +2,7 @@
 
 # Hi there! ![Wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Charles Stevano
 
-## 💻 Web Developer
+## 💻 Introduction
 
 I am an undergraduate student passionate about web development and Linux systems. My technical skills include Node.js (with Express.js and EJS templating), Version Control Systems (Git & GitHub), Linux Knowledge, and working with databases such as MySQL, PostgreSQL, and MongoDB.
 
